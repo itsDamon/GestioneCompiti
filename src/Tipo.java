@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum Tipo {
+public enum Tipo {
+    LETTURA,
+    STUDIO,
+    ESERCIZO,
+    PROGRAMMAZIONE
 }

@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public enum Materia {
+public enum Materia {
+    STORIA,
+    ITALIANO,
+    MATEMATICA,
+    INFORMATICA,
+    TELECOMUNICAZIONI,
+    INGLESE
 }
